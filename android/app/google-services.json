@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071778630120",
+    "project_id": "garage-reservation",
+    "storage_bucket": "garage-reservation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071778630120:android:547310437659e85e8ebc5d",
+        "android_client_info": {
+          "package_name": "com.example.garage_reservation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm2X0bMrOYWuGzrXVFfRBIvh0lwMWyflk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
