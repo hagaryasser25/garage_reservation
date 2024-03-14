@@ -182,10 +182,9 @@ class _SignupState extends State<Signup> {
                           child: TextField(
                             style: TextStyle(color: Colors.black),
                             controller: phoneNumberController,
-                            obscureText: true,
                             decoration: InputDecoration(
                                 prefixIcon: Icon(
-                                  Icons.password,
+                                  Icons.phone_android,
                                   color: HexColor("#ffba26"),
                                 ),
                                 enabledBorder: OutlineInputBorder(
